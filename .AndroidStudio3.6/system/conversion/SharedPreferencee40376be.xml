@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\codeStyles\Project.xml" timestamp="1592986129151" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\gradle.xml" timestamp="1592996553404" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1592986145924" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1592986145937" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1592986145947" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1592986145959" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1592986145968" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1592986145980" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1592986145990" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1592986146001" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1592986146011" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1592986146019" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1592986146030" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1592986146040" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1592986146048" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1592986146057" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1592986146066" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1592986146074" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1592986146081" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1592986146092" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1592986146104" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1592986146117" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1592986146127" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1592986146136" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1592986146145" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1592986146154" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1592986146165" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1592986146176" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1592986146185" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1592986146193" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1592986146202" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1592986146209" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1592986146218" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1592986146225" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1592986146236" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1592986146245" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1592986146253" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1592986146263" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1592986146272" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1592986146286" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1592986146299" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1592986146311" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\misc.xml" timestamp="1593485179006" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\modules.xml" timestamp="1592986145898" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\runConfigurations.xml" timestamp="1592986151489" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\.idea\workspace.xml" timestamp="1593533900080" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\SharedPreference.iml" timestamp="1592986145869" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\SharedPreference\app\app.iml" timestamp="1593496074085" />
+  </project-files>
+</conversion>
+

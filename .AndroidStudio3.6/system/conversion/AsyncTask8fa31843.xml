@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\codeStyles\Project.xml" timestamp="1593101485258" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\gradle.xml" timestamp="1593104230366" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1593101485269" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1593101485280" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1593101485289" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1593101485301" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1593101485314" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1593101485324" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1593101485335" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1593101485347" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1593101485363" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1593101485372" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1593101485387" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1593101485400" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1593101485412" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1593101485422" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1593101485433" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1593101485444" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1593101485458" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1593101485466" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1593101485474" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1593101485486" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1593101485499" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1593101485540" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1593101485552" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1593101485563" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1593101485578" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1593101485600" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1593101485615" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1593101485628" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1593101485645" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1593101485662" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1593101485675" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1593101485693" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1593101485715" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1593101485729" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1593101485741" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1593101485760" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1593101485771" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1593101485782" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1593101485792" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1593101485802" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\misc.xml" timestamp="1593105457350" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\modules.xml" timestamp="1593101485221" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\runConfigurations.xml" timestamp="1593101788337" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\.idea\workspace.xml" timestamp="1593105053414" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\AsyncTask.iml" timestamp="1593101485167" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\AsyncTask\app\app.iml" timestamp="1593104230349" />
+  </project-files>
+</conversion>
+

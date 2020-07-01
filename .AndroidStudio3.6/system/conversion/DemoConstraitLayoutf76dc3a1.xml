@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\codeStyles\Project.xml" timestamp="1591869909854" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\gradle.xml" timestamp="1591952545281" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1591869909867" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1591869909880" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1591869909890" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1591869909898" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1591869909908" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1591869909919" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1591869909928" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1591869909939" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1591869909957" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1591869909968" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1591869909980" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1591869909995" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1591869910008" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1591869910018" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1591869910028" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1591869910041" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1591869910054" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1591869910067" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1591869910077" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1591869910088" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1591869910098" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1591869910109" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1591869910117" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1591869910127" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1591869910137" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1591869910147" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1591869910156" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1591869910166" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1591869910179" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1591869910193" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1591869910204" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1591869910218" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1591869910233" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1591869910245" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1591869910256" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1591869910270" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1591869910282" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1591869910293" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1591869910303" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1591869910314" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\misc.xml" timestamp="1592300348547" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\modules.xml" timestamp="1591869909827" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\runConfigurations.xml" timestamp="1591869931553" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\.idea\workspace.xml" timestamp="1592300684755" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\DemoConstraitLayout.iml" timestamp="1591869909765" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoConstraitLayout\app\app.iml" timestamp="1591952562369" />
+  </project-files>
+</conversion>
+

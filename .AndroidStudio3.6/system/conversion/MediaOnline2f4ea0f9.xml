@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\codeStyles\Project.xml" timestamp="1593414424869" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\gradle.xml" timestamp="1593417418445" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1593414437064" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1593414437078" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1593414437090" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1593414437102" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1593414437113" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1593414437127" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1593414437138" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1593414437150" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1593414437164" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1593414437175" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1593414437186" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1593414437201" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1593414437217" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1593414437233" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1593414437252" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1593414437263" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1593414437275" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1593414437289" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1593414437305" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1593414437318" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1593414437329" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1593414437338" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1593414437350" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1593414437360" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1593414437371" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1593414437384" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1593414437394" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1593414437407" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1593414437419" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1593414437429" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1593414437444" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1593414437459" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1593414437473" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1593414437485" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1593414437500" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1593414437510" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1593414437524" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1593414437537" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1593414437550" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1593414437561" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\misc.xml" timestamp="1593417889916" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\modules.xml" timestamp="1593414437032" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\runConfigurations.xml" timestamp="1593414443387" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\.idea\workspace.xml" timestamp="1593415198843" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\MediaOnline.iml" timestamp="1593414436990" />
+    <file path="C:\Users\Admin\AndroidStudioProjectsKP\MediaOnline\app\app.iml" timestamp="1593417889901" />
+  </project-files>
+</conversion>
+

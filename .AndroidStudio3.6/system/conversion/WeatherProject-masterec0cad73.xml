@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\codeStyles\Project.xml" timestamp="1591250687000" />
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\gradle.xml" timestamp="1591250687000" />
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\jarRepositories.xml" timestamp="1591250687000" />
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\misc.xml" timestamp="1591250687000" />
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\runConfigurations.xml" timestamp="1591250687000" />
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\vcs.xml" timestamp="1591250687000" />
+    <file path="C:\Users\Admin\Downloads\Tài liệu\WeatherProject-master\.idea\workspace.xml" timestamp="1592984358171" />
+  </project-files>
+</conversion>
+

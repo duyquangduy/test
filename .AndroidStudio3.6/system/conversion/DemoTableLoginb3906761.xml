@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\codeStyles\Project.xml" timestamp="1591865330553" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\gradle.xml" timestamp="1592018599761" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1591865356376" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1591865356391" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1591865356406" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1591865356428" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1591865356437" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1591865356451" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1591865356461" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1591865356470" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1591865356486" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1591865356503" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1591865356520" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1591865356535" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1591865356550" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1591865356565" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1591865356584" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1591865356603" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1591865356619" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1591865356634" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1591865356647" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1591865356661" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1591865356672" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1591865356689" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1591865356699" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1591865356710" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1591865356720" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1591865356731" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1591865356741" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1591865356751" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1591865356760" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1591865356768" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1591865356779" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1591865356786" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1591865356799" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1591865356812" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1591865356819" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1591865356837" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1591865356847" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1591865356862" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1591865356873" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1591865356886" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\misc.xml" timestamp="1592362496573" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\modules.xml" timestamp="1591865356344" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\runConfigurations.xml" timestamp="1591865358829" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\.idea\workspace.xml" timestamp="1593534589646" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\DemoTableLogin.iml" timestamp="1591865356284" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\DemoTableLogin\app\app.iml" timestamp="1592362496563" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\codeStyles\Project.xml" timestamp="1592532057538" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\dbnavigator.xml" timestamp="1592493926446" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\gradle.xml" timestamp="1592532057486" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1592493954570" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1592493954581" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1592493954591" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1592493954603" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1592493954614" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1592493954623" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1592493954633" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1592493954643" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1592493954659" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1592493954672" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1592493954687" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1592493954703" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1592493954724" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1592493954766" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1592493954780" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1592493954794" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1592493954806" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1592493954813" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1592493954835" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1592493954867" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1592493954888" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1592493954897" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1592493954913" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1592493954923" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1592493954935" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1592493954953" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1592493954964" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1592493954975" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1592493954984" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1592493954994" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1592493955008" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1592493955022" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1592493955040" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1592493955050" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1592493955064" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1592493955072" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1592493955084" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1592493955095" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1592493955109" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1592493955120" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\misc.xml" timestamp="1592532077252" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\modules.xml" timestamp="1592493954537" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\runConfigurations.xml" timestamp="1592494484166" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\.idea\workspace.xml" timestamp="1592500934873" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\SQLiteCreate.iml" timestamp="1592493954496" />
+    <file path="C:\Users\Admin\AndroidStudioProjects\SQLiteCreate\app\app.iml" timestamp="1592532077212" />
+  </project-files>
+</conversion>
+
