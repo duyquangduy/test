@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppToanCau</string>
+    <string name="hint_DienThoai">Input Phone Number</string>
+    <string name="hint_Email">Input Email</string>
+    <string name="hint_HoTen">Input full Name</string>
+    <string name="text_TieuDe">Information Form</string>
+    <string name="text_XacNhan">Confirm</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //resize lai anh ve 32x32
+    <item android:drawable="@drawable/rsz_checkbox"
+        android:state_checked="true" />
+
+    <item android:drawable="@drawable/rsz_unchecked"/>
+
+</selector>

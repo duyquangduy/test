@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppToanCau</string>
+    <string name="text_TieuDe">Phiếu Thông Tin</string>
+    <string name="hint_HoTen">Nhập họ tên</string>
+    <string name="hint_Email">Nhập email</string>
+    <string name="hint_DienThoai">Nhập số điện thoại</string>
+    <string name="text_XacNhan">Xác nhận</string>
+    <string name="text_ChaoBan">Chào bạn</string>
+    <string name="text_SoDT">Số điện thoại</string>
+</resources>

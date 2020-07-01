@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/run"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBox
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_above="@id/checkBox2"
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </CheckBox>
+
+    <CheckBox
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="25dp"
+        android:layout_above="@id/checkBox3"
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </CheckBox>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="11dp">
+
+    </CheckBox>
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:id="@+id/seekBar3"
+        android:layout_width="28dp"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginBottom="13dp"
+        android:layout_toRightOf="@id/checkBox3"
+        android:thumb="@drawable/roses" />
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:id="@+id/seekBar2"
+        android:layout_width="28dp"
+        android:layout_height="21dp"
+        android:layout_above="@id/seekBar3"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="36dp"
+        android:layout_toRightOf="@id/checkBox2"
+        android:thumb="@drawable/nancy" />
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:id="@+id/seekBar1"
+        android:layout_width="31dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/seekBar2"
+        android:layout_marginLeft="6dp"
+        android:layout_marginBottom="30dp"
+        android:layout_toRightOf="@id/checkBox1"
+        android:thumb="@drawable/lisa1" />
+
+    <TextView
+        android:id="@+id/textViewScore"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:text="100"
+        android:textColor="#ff00"
+        android:textSize="50dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonPlay"
+            android:background="@null"
+            android:layout_centerInParent="true"
+            android:src="@drawable/play">
+
+        </ImageButton>
+
+    </TextView>
+</RelativeLayout>

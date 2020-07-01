@@ -1,0 +1,2 @@
+rootProject.name='MiniBrowserWebview'
+include ':app'

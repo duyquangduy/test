@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    //showAction: icon luon hiển thị lên màn hình
+    //orderinCategory: Số thứ tự các function trong menu
+
+    <item
+        android:id="@+id/menuSetting"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Setting"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuShare"
+        android:orderInCategory="1"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/menuSearch"
+        android:orderInCategory="2"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/menuExit"
+        android:orderInCategory="3"
+        android:title="Exit" />
+
+
+    //menu 2 cấp
+    <item
+        android:orderInCategory="4"
+        android:title="Contact">
+
+        <menu>
+
+            <item
+                android:id="@+id/menuEmail"
+                android:title="Email" />
+
+            <item
+                android:id="@+id/menuPhone"
+                android:title="Phone" />
+
+        </menu>
+
+    </item>
+
+</menu>

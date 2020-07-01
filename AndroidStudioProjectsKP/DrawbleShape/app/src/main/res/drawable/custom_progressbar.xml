@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //luu y: phai viet theo dung thu tu nhu the nay
+    //1
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="#EBA7A7" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+
+    //2
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="#50D2F4" />
+                <corners android:radius="20dp" />
+            </shape>
+        </clip>
+    </item>
+
+    //3
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="#E50FB0" />
+                <corners android:radius="20dp" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>
